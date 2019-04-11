@@ -1,0 +1,44 @@
+{
+  "streams": [
+    {
+      "title": "My Big Stream",
+      "description": "This is a stream of My Time at Portia game episode 1",
+      "id": 1
+    },
+    {
+      "title": "My Time At Portia Episode 2",
+      "description": "This is the second episode where we get our first crafting machine",
+      "id": 2
+    },
+    {
+      "title": "Unexpected Behavior is a patch",
+      "description": "I didn't expect that as well ",
+      "userId": "101750239318471202693",
+      "id": 5
+    },
+    {
+      "title": "Programatic Nav",
+      "description": "This should take me to a new page",
+      "userId": "101750239318471202693",
+      "id": 6
+    },
+    {
+      "title": "Framer X v5",
+      "description": "Hello Framer X, it's nice to meet you for the fifth time",
+      "userId": "101750239318471202693",
+      "id": 7
+    },
+    {
+      "title": "New stream for April",
+      "description": "This is a stream of April games on XBOX, PS4 and PC",
+      "userId": "101750239318471202693",
+      "id": 8
+    },
+    {
+      "title": "New XBOX Insider Show",
+      "description": "This is the April show that has new reveals!",
+      "userId": "101750239318471202693",
+      "id": 9
+    }
+  ]
+}
